@@ -1,5 +1,4 @@
-# Spotify Data Analytics
-#Data Warehouse and Pipelines
+# Spotify Data Analytics-Data Warehouse and Pipelines
 
 
 # &#x20;
